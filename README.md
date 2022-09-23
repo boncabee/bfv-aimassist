@@ -23,5 +23,7 @@ I added two weapon profile
 - `pip install -r requirements.txt`
 
 ## How To Use
+- Edit .bat file to match with your device and save
 - Start BFV
+- Disable directx12
 - Choose and run .bat file
