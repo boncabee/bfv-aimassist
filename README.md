@@ -6,13 +6,13 @@ Original from [xx4-bfv-aimassist](https://github.com/exex4/xx4-bfv-aimassist)
 ## Config
 I added two weapon profile
 
-1. `aim-assist-aw.bat` for automatic weapon
+1. `aim-assist-aw.bat` use for automatic weapon
 
 - trigger with LMB key (Left Mouse Button)
 - default aim target is Spine
 - END key to change target between Spine or Head
 
-2. `aim-assist-sniper.bat` for bolt action sniper
+2. `aim-assist-sniper.bat` use for bolt action sniper / semi auto rifle
 
 - trigger with RMB key (Right Mouse Button)
 - default aim target is Head
