@@ -3,9 +3,7 @@ Battlefield V Aim Assist is aim bot scripts with trigger button to active
 
 Button, FoV, Distance, Aim Location, etc. is configurable to fit with your needs
 
-This is my settings, looks more natural and not too suspicious
-
-Original from [xx4-bfv-aimassist](https://github.com/exex4/xx4-bfv-aimassist)
+This is my best settings, looks more natural, sometimes mises, not aresive and not too suspicious
 
 ![x](https://github.com/boncabee/bfv-aimassist/blob/main/Screenshot%20(231).png)
 
@@ -49,3 +47,6 @@ Edit some settings to fit with your needs inside `aim-assist-asr.bat` and/or `ai
 * Trigger (Aim) Button
 * Aim Location Options
 * Key to switch aim location
+
+## Credit
+All credit going to [exex4](https://github.com/exex4/xx4-bfv-aimassist)
