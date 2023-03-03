@@ -3,7 +3,7 @@ Battlefield V Aim Assist is aimbot scripts to force your crosshair movement hit 
 
 Button, FoV, Distance, Aim Location, etc. is configurable to fit with your needs
 
-This is my best settings, looks more natural, sometimes mises, not aggressive and not too suspicious
+This is my best settings, looks more natural, sometimes misses, not aggressive and not too suspicious
 
 ![x](https://github.com/boncabee/bfv-aimassist/blob/main/Screenshot%20(231).png)
 
