@@ -49,4 +49,4 @@ Edit some settings to fit with your needs inside `aim-assist-asr.bat` and/or `ai
 * Key to switch aim location
 
 ## Credit
-All credit going to [exex4](https://github.com/exex4/xx4-bfv-aimassist)
+All credit going to [exex4](https://github.com/exex4)
