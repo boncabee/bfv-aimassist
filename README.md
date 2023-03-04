@@ -20,10 +20,10 @@ This is my best settings, looks more natural, sometimes misses, not aggressive a
 
 ## How To Use
 * Open the game
-* Go to Options > Video > Advanced > Turn OFF DX12
+* Go to `Options > Video > Advanced > Turn OFF DX12`
 * Double click one of the `.bat` file which profile you need `aim-assist-asr.bat` or `aim-assist-snr.bat`
 * Keep the CMD window open or you can minimize (don't close)
-* Close CMD box to deactivate
+* Close CMD window to deactivate
 
 ## Profiles
 I added two config profiles for different weapon
