@@ -1,5 +1,5 @@
 # What Is Battlefield V Aim Assist
-Battlefield V Aim Assist is aimbot scripts to force your crosshair movement hit the enemy
+Battlefield V Aim Assist is aimbot scripts to force your crosshair movement to enemy
 
 Button, FoV, Distance, Aim Location, etc. is configurable to fit with your needs
 
