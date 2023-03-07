@@ -48,6 +48,7 @@ if distance_limit is not None and distance_limit <= 0:
 
 if __name__ == "__main__":
     print("Boncabee bfv aim assist version %s" % version)
+    print("Github (https://github.com/boncabee/bfv-aimassist)")
     print("Original from exex4 aim assist version 0.5")
     print()
     print("Profile Active: ASR/SMG Weapon")
