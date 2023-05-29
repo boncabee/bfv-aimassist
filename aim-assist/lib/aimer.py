@@ -54,6 +54,8 @@ class Aimer:
             time.sleep(1)
         else:
             print("[-] Error: Cannot find BFV.exe")
+            print("[!] Hint: Please run the game first")
+            time.sleep(5)
             exit(1)
 
         print("[+] BFV.exe found, Handle 0x%x" % phandle)

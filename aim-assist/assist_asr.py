@@ -61,22 +61,25 @@ if __name__ == "__main__":
     print("Processing:")
 
     if not helpers.is_admin():
-        print("- Error: This must be run with admin privileges")
+        print("[-] Error: This not run with admin privileges")
+        print("[!] Hint: Please run as administrator")
         input("Press Enter to continue...")
         exit(1)
 
     if not helpers.is_python3():
-        print("- Error: This script requires Python 3")
-        raw_input("Press Enter to continue...")
+        print("[-] Error: This script requires Python 3 installed")
+        input("Press Enter to download Python 3...")
+        helpers.get_python()
         exit(1)
 
     arch = helpers.get_python_arch()
     if arch != 64:
-        print("- Error: This version of Python is not 64-bit")
-        input("Press Enter to continue...")
+        print("[-] Error: This version of Python is not 64-bit")
+        input("Press Enter to download Python 64-bit...")
+        helpers.get_python()
         exit(1)
 
-    print ("Using screensize: %s x %s" % screensize)
+    print("Using screensize: %s x %s" % screensize)
     aimer = aimer.Aimer(screensize, trigger, distance_limit, fov, aim_locations, aim_switch)
     aimer.start()
 

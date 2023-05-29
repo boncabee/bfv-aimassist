@@ -2,6 +2,7 @@ import os
 import sys
 import struct
 from ctypes import *
+import webbrowser
 
 
 def is_admin():
@@ -18,5 +19,11 @@ def is_python3():
     return True
 
 
+def get_python():
+    webbrowser.open('https://www.python.org/ftp/python/3.11.3/python-3.11.3-amd64.exe')
+
+
 def get_python_arch():
     return (8 * struct.calcsize("P"))
+
+
